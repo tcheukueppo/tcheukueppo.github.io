@@ -3,7 +3,7 @@ title = "Kueppo Tcheukam (@tcheukueppo)"
 
 theme = "fuji"
 hasCJKLanguage = true
-#enableEmoji = true
+enableEmoji = true
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
@@ -133,10 +133,6 @@ name = "About"
 url = "/about/"
 weight = 4
 [[menu.nav]]
-name = "Africa"
-url = "/africa/"
-weight = 4
-[[menu.nav]]
 name = "Search"
 url = "/search/"
 weight = 5
@@ -148,7 +144,7 @@ weight = 1
 [[menu.link]]
 name = "Telegram"
 url = "https://t.me/kueppo"
-weight = 3
+weight = 2
 
 [build]
 noJSConfigInAssets = true
