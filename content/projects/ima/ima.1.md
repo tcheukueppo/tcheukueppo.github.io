@@ -1,3 +1,13 @@
++++
+title  = 'Introducing Kueppo!'
+author = 'kueppo'
+email  = 'tcheukueppo@tutanota.com'
+showLicense = false
+description = 'Kueppo introduces himself'
+aplayer = false
+date    = 2023-04-04T00:00:00+08:00
++++
+
 # SYNOPSIS
 > **ima** [ -x | --retries-per-sites **NUM** ] [ -q | --more-lines ] [ -k | --no-color ] [ -m | --image-count **NUM** ] [ -a | --auto-name ] [ -p | --no-progress-bar ] [ -r | --retries **NUM** ] [ -l | --image-link **OUTPUT_FORMAT** ] [ -h | --help ] [ -t | --timeout ] [ -w | --overwrite ] [ --version ] [ -n **NUM** ] [ -v | --verbose ] [ -e | --engine **ENGINE** ] [ -i | --ignore-domains **DOMAIN** ] [ -d | --dest-dir **DEST_DIR** ] [ -u | --number-sites **NUM** ] [ -o | --min-score **SCORE** ] [ -s | --search-only ] **QUERY** [..QUERY]
 
@@ -55,4 +65,3 @@ Presumably. Report them or discuss them at:
 # COPYRIGHT
 
 > License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
-
