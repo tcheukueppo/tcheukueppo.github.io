@@ -5,7 +5,7 @@ email  = 'tcheukueppo@tutanota.com'
 showLicense = false
 description = 'Kueppo introduces himself'
 aplayer = false
-date    = 2023 May 04
+date    = 2023-04-04T00:00:00+08:00
 +++
 
 Hello there! you can call me Kueppo though I'm mostly known on the internet as @tcheukueppo
