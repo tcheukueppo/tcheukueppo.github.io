@@ -1,8 +1,12 @@
----
-title: 'Introducing Kueppo!'
-author: kueppo
-email: tcheukueppo@tutanota.com
----
++++
+title  = 'Introducing Kueppo!'
+author = 'kueppo'
+email  = 'tcheukueppo@tutanota.com'
+showLicense = false
+description = 'Kueppo introduces himself'
+aplayer = false
+date    = 2023 May 04
++++
 
 Hello there! you can call me Kueppo though I'm mostly known on the internet as @tcheukueppo
 so, call me as such if you really like to. I'm living at Africa/cameroon.
@@ -20,12 +24,12 @@ I'm a polyglot programmer. I dealed with C, Perl, Sh, Go, Rust, Lua, and Python.
 I'm helpful on the following topics:
 
 1. Unix & Linux OFCOURSE!
-1. Databases Design and Administration
-2. Software Design
-3. System Administration
-4. Devops
-5. FUCKING WEB
-6. Video and Audio: Ffmpeg, ImageMagick, and Synfig.
+2. Databases Design and Administration
+3. Software Design
+4. System Administration
+5. Devops
+6. FUCKING WEB
+7. Video and Audio: Ffmpeg, ImageMagick, and Synfig.
 
 ## My Life
 

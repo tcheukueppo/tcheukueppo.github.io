@@ -1,9 +1,9 @@
 baseURL = "https://tcheukueppo.github.io"
-title = "Kueppo Tch."
+title = "Kueppo Tcheukam (@tcheukueppo)"
 
 theme = "fuji"
 hasCJKLanguage = true
-enableEmoji = true
+#enableEmoji = true
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
@@ -33,8 +33,8 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
 author = "Kueppo"                # you can also set author in post front matter individually
-subTitle = "System Administrator, Devops, Perler, NodeJSer"
-defaultTheme = "light"              # default theme when first visit (auto|dark|light)
+subTitle = "Software Developer, System Administrator."
+defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
 #sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
@@ -58,10 +58,10 @@ showLicenseInFooter = false
 
 # License at the end of each post
 showLicense = false
-showToc = true
+showToc = false
 
 # Copyright
-copyrightStartYear = "2022"
+copyrightStartYear = "2023"
 
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
@@ -121,8 +121,8 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.nav]]
-name = "Archives"
-url = "/archives/"
+name = "Blog"
+url = "/blog/"
 weight = 2
 [[menu.nav]]
 name = "Projects"
@@ -131,6 +131,10 @@ weight = 3
 [[menu.nav]]
 name = "About"
 url = "/about/"
+weight = 4
+[[menu.nav]]
+name = "Africa"
+url = "/africa/"
 weight = 4
 [[menu.nav]]
 name = "Search"
