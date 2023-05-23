@@ -28,9 +28,5 @@ I'm helpful on the following topics:
 3. Software Design
 4. System Administration
 5. Devops
-6. FUCKING WEB
+6. WEB
 7. Video and Audio: Ffmpeg, ImageMagick, and Synfig.
-
-## My Life
-
-I'm a responsible first born elder brother of 7 little ones, I fight for our lives!
