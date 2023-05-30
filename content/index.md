@@ -14,10 +14,10 @@ so, call me as such if you really like to. I live in Africa/cameroon.
 Just like any geek out there, I spent most of my time writing code and administering open source
 operating systems because why not? :).
 
-To know how much I might be of interest to you, see the list of my open source projects
+To know how much I can be of interest to you, see the list of my open source projects
 and also checkout my blog because some of the content are quite good.
 
-I'm a polyglot programmer. I dealed with C, Perl, Sh, Go, Rust, Lua, and Python.
+I'm a polyglot programmer. I've worked with C, Perl, Sh, Go, Rust, Lua, and Python.
 
 I'm helpful on the following topics:
 
