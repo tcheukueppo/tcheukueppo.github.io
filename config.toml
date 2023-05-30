@@ -129,13 +129,9 @@ name = "Projects"
 url = "/projects/"
 weight = 3
 [[menu.nav]]
-name = "About"
-url = "/about/"
-weight = 4
-[[menu.nav]]
 name = "Search"
 url = "/search/"
-weight = 5
+weight = 4
 
 [[menu.link]]
 name = "GitHub"
